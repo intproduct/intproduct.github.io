@@ -1,44 +1,18 @@
 ---
 layout: page
-title: 张三 (Zhang San)
-subtitle: 物理学博士研究生 | 凝聚态物理
+title: Qixuan Fang
+subtitle: PhD Candidate, KITS, UCAS
 hero_height: is-medium
 show_sidebar: false
 ---
 
 # 欢迎访问我的学术主页
 
-我是[大学名称][院系名称]的物理学博士研究生，研究方向为[具体研究方向，如：凝聚态物理/量子光学/高能物理等]。
+我是中国科学院大学卡弗里理论科学研究所的理论物理博士研究生，感兴趣方向为*量子多体理论、张量网络算法、复杂系统与统计物理、量子机器学习等*
 
 ## 研究兴趣
 
-- **主要研究领域**: [具体研究领域]
-- **理论/实验**: [理论物理 或 实验物理]
-- **具体方向**: [如：量子多体系统、拓扑材料、超导体等]
-
-## 当前研究
-
-我目前的研究工作主要集中在[具体描述你的研究项目]，使用[研究方法/工具]来探索[研究问题]。
-
-### 最新进展
-
-- **[项目名称]** - [简短描述和当前状态]
-- **[会议报告]** - [会议名称和时间]
-- **[论文写作]** - [论文主题和进展]
-
-## 技术技能
-
-### 编程语言
-- **Python** - 数据分析、数值计算、机器学习
-- **Mathematica** - 符号计算、理论推导
-- **MATLAB** - 数值模拟、数据可视化
-- **C/C++** - 高性能计算、数值算法
-
-### 专业软件
-- **科学计算**: NumPy, SciPy, Matplotlib
-- **量子计算**: Qiskit, Cirq (如适用)
-- **分子动力学**: LAMMPS, GROMACS (如适用)
-- **文档工具**: LaTeX, Jupyter Notebook
+- **主要研究领域**: 泛函张量网络算法
 
 ## 学术资源
 
@@ -51,10 +25,10 @@ show_sidebar: false
 
 ## 联系方式
 
-- 📧 **Email**: your.email@university.edu
-- 🏫 **办公室**: [楼宇名称] [房间号]
-- 📱 **ORCID**: [你的ORCID ID]
-- 💻 **GitHub**: [你的GitHub用户名]
+- 📧 **Email**: fangqixuan23@mails.ucas.ac.cn
+- 📱 **ORCID**: https://orcid.org/0009-0009-3303-4462
+- 💻 **GitHub**: intproduct
+- 🏫 **Address**: University of Chinese Academy of Sciences, No.1 Yanqihu East Rd, Huairou District, Beijing, PR China, 101408
 
 ---
 
