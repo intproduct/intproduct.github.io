@@ -1,3 +1,7 @@
-theme: bulma-clean-theme  # 关键配置项
+# 移除 theme 行，改用 remote_theme
+remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
-  - jekyll-remote-theme   # 启用主题加载插件
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
