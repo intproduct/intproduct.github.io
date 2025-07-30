@@ -1,7 +1,19 @@
-# 移除 theme 行，改用 remote_theme
+title: Your Site Title
+description: Your site description
+baseurl: "" # 如果是用户页面则留空，项目页面则填 "/repository-name"
+url: "https://intproduct.github.io"
+
 remote_theme: chrisrhymes/bulma-clean-theme
+
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
+
+# Bulma Clean Theme 特定配置
+navbar_brand: Your Brand
+navbar_color: is-primary
+
+markdown: kramdown
+highlighter: rouge
