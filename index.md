@@ -3,7 +3,7 @@ layout: page
 title: Qixuan Fang
 subtitle: PhD Candidate, KITS, UCAS
 hero_height: is-medium
-hero_image: /img/fig-test.png
+hero_image: /img/fig-bg.png
 show_sidebar: false
 ---
 
