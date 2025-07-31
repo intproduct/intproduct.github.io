@@ -1,6 +1,7 @@
 # 网站基本信息
 title: Home page
 description: Home page
+avatar:/img/fig-test.png
 baseurl: 
 url: "https://intproduct.github.io" 
 
