@@ -4,7 +4,7 @@ title: 统计物理笔记
 permalink: /docs/stas/
 ---
 
-# 📖 教程系列
+# 📒 笔记系列
 
 <a href="{{ site.baseurl }}/docs/" class="button is-light">← 返回文档中心</a>
 
