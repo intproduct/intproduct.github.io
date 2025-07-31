@@ -43,7 +43,7 @@ navbar_color: is-primary
 # Navigation
 navigation:
   - name: Home
-    link: /
+    link: /home/
   - name: Docs
     link: /docs/
   - name: Example Pages
