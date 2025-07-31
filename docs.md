@@ -30,7 +30,7 @@ permalink: /docs/
   <div class="column is-4">
     <div class="card">
       <div class="card-content">
-        <h3 class="title is-4">书籍 推荐资料</h3>
+        <h3 class="title is-4">📚 推荐资料</h3>
         <p>推荐的参考资料</p>
         <a href="{{ site.baseurl }}/docs/guides/" class="button is-primary">查看资料</a>
       </div>
