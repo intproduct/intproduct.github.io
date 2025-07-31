@@ -12,7 +12,7 @@ permalink: /docs/
       <div class="card-content">
         <h3 class="title is-4">📒 笔记系列</h3>
         <p>统计物理学</p>
-        <a href="{{ site.baseurl }}/docs/tutorials/" class="button is-primary">查看教程</a>
+        <a href="{{ site.baseurl }}/docs/stas/" class="button is-primary">查看教程</a>
       </div>
     </div>
   </div>
@@ -22,7 +22,7 @@ permalink: /docs/
       <div class="card-content">
         <h3 class="title is-4">💻 代码程序</h3>
         <p>部分代码和程序文件</p>
-        <a href="{{ site.baseurl }}/docs/manuals/" class="button is-primary">查看列表</a>
+        <a href="{{ site.baseurl }}/docs/codes/" class="button is-primary">查看列表</a>
       </div>
     </div>
   </div>
@@ -32,7 +32,7 @@ permalink: /docs/
       <div class="card-content">
         <h3 class="title is-4">📚 推荐资料</h3>
         <p>推荐的参考资料</p>
-        <a href="{{ site.baseurl }}/docs/guides/" class="button is-primary">查看资料</a>
+        <a href="{{ site.baseurl }}/docs/materials/" class="button is-primary">查看资料</a>
       </div>
     </div>
   </div>
