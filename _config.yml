@@ -1,8 +1,8 @@
 # 网站基本信息
-title: Your Site Title
-description: Your site description
-baseurl: "" # 用户页面留空，项目页面填写 "/repository-name"
-url: "https://intproduct.github.io" # 替换为你的实际 GitHub Pages URL
+title: Home page
+description: Home page
+baseurl: 
+url: "https://intproduct.github.io" 
 
 # 使用远程主题
 remote_theme: chrisrhymes/bulma-clean-theme
