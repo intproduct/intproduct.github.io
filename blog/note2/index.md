@@ -1,5 +1,5 @@
 ---
-layout: default  # 或者 Bluma Clean 主题提供的其他布局，比如 'doc' 或 'page'
+layout: page  # 或者 Bluma Clean 主题提供的其他布局，比如 'doc' 或 'page'
 title: Note 1
 ---
 
