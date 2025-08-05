@@ -1,19 +1,27 @@
 # 网站基本信息
-title: Home page
-description: Home page
+lang: zh-CN
+title: Homepage
+description: >
+  IntProduct 网站
 baseurl: 
-url: "https://intproduct.github.io" 
+url: "https://intproduct.github.io"
+permalink: pretty
+#favicon: /path/to/favicon.png
 
 # 使用远程主题
 remote_theme: chrisrhymes/bulma-clean-theme
 
+# 主题设置
+force_theme: light
+#theme_color: '#eeeeee'
+#fixed_navbar: top
+
 # 插件
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Markdown 处理器
 markdown: kramdown
@@ -35,30 +43,85 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - README.md
+
+# Sass 配置
+sass:
+  style: compressed
 
 # Bulma Clean Theme 特定配置
-navbar_brand: Your Brand Name
+navbar_brand: IntProduct
 navbar_color: is-primary
+
+# 默认页面设置
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: true
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: ""
+      layout: post
+      show_sidebar: true
 
 # Navigation
 navigation:
   - name: Home
+    link: /
+  - name: About
     link: /home/
+  - name: Research
+    dropdown:
+      - name: Projects
+        link: /research/
+      - name: Collaborations
+        link: /collaborations/
+  - name: Notes
+    link: /notes/
   - name: Docs
     link: /docs/
-  - name: Example Pages
-    dropdown:
-      - name: Page 1
-        link: /example-pages/page1/
-      - name: Page 2
-        link: /example-pages/page2/
   - name: Blog
     dropdown:
-      - name: Note1
-        link: /blog/note1/
-      - name: Note2
-        link: /blog/note2/
+      - name: All Posts
+        link: /blog/
+      - name: Tensor Networks
+        link: /blog/tensor-networks/
+      - name: Quantum Physics
+        link: /blog/quantum-physics/
+      - name: Computational Tools
+        link: /blog/computational-tools/
 
-# 社交媒体链接（可选）
-# github_username: yourusername
-# twitter_username: yourusername
+# 社交媒体链接
+social:
+  github: https://github.com/intproduct
+  # 可以根据需要添加其他社交媒体链接
+  # facebook: https://www.facebook.com/
+  # twitter: https://www.twitter.com/
+  # linkedin: https://www.linkedin.com/
+
+# 分析和跟踪（可选，取消注释并填入真实ID后使用）
+#google_analytics: UA-code-here
+
+# Cookie 政策（如果需要）
+# cookie_policy: /cookie-policy/
+
+# 评论系统（可选，需要 Disqus 账号）
+# disqus:
+#   shortname: your_disqus_shortname
+
+# 页脚菜单
+footer_menu: footer_links
+
+# 集合配置
+collections:
+  research_projects: 
+    output: true
+    layout: project
+    show_sidebar: false
+    permalink: /:collection/:name/
