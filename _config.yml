@@ -27,6 +27,16 @@ plugins:
 markdown: kramdown
 highlighter: rouge
 
+# Kramdown 配置（启用数学公式支持）
+kramdown:
+  math_engine: mathjax
+  math_engine_opts:
+    preview: true
+    preview_as_code: false
+
+# MathJax 配置
+mathjax: true
+
 # 分页设置（如果需要）
 paginate: 5
 paginate_path: "/blog/page:num/"
