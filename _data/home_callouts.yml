@@ -1,0 +1,27 @@
+style: is-light
+items:
+  - title: 量子多体理论
+    subtitle: 张量网络算法与复杂系统
+    icon: fa-atom
+    description: >
+      专注于泛函张量网络算法的研究，探索量子多体系统的新方法。
+      结合理论物理与计算物理，推进复杂量子系统的理解。
+    call_to_action_name: 了解更多
+    call_to_action_link: /docs/research/
+  - title: 学术资源
+    subtitle: 研究笔记与代码分享
+    icon: fa-book-open
+    description: >
+      分享学习笔记、理论推导和研究代码。
+      涵盖统计物理、量子机器学习等多个领域的学术资料。
+    call_to_action_name: 浏览资源
+    call_to_action_link: /blog/
+  - title: 开源项目
+    subtitle: 计算物理工具与算法
+    icon: fa-github
+    icon_brand: true
+    description: >
+      开发和维护与张量网络、量子计算相关的开源项目。
+      为科研社区贡献高质量的计算工具。
+    call_to_action_name: GitHub
+    call_to_action_link: https://github.com/intproduct

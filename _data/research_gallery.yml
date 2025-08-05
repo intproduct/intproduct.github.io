@@ -1,0 +1,43 @@
+- title: 张量网络算法研究
+  images:
+    - link: /img/tensor-network-diagram.png
+      alt: 张量网络示意图
+      description: |-
+        ### 泛函张量网络算法
+
+        开发新颖的张量网络算法用于研究**量子多体系统**的基态和激发态性质。
+
+        主要贡献：
+        * 改进的DMRG算法
+        * 二维张量网络优化
+        * 量子纠缠分析工具
+      ratio: is-16by9
+    - link: /img/quantum-simulation.png
+      alt: 量子模拟结果
+      description: |-
+        ### 复杂系统量子模拟
+
+        利用张量网络方法模拟复杂量子系统的演化过程。
+      ratio: is-16by9
+
+- title: 开源项目与工具
+  images:
+    - link: /img/code-structure.png
+      alt: 代码结构图
+      description: |-
+        ### PyTensorNet
+
+        基于Python的张量网络计算库，提供高效的数值计算工具。
+
+        特性：
+        * 模块化设计
+        * GPU加速支持
+        * 丰富的算法实现
+      ratio: is-4by3
+    - link: /img/algorithm-flow.png
+      alt: 算法流程图
+      description: |-
+        ### 量子机器学习算法
+
+        结合张量网络与机器学习的创新算法。
+      ratio: is-4by3

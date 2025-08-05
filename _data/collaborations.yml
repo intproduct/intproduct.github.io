@@ -1,0 +1,38 @@
+- tier_name: 研究合作
+  size: large
+  items:
+    - name: 卡弗里理论科学研究所
+      img: /img/kits-logo.png
+      url: http://kits.ucas.ac.cn/
+    - name: 中国科学院大学
+      img: /img/ucas-logo.png
+      url: https://www.ucas.ac.cn/
+      
+- tier_name: 学术项目
+  size: medium
+  items:
+    - name: 张量网络算法研究
+      img: /img/tensor-network-icon.png
+      url: /research/
+    - name: 量子多体理论
+      img: /img/quantum-physics-icon.png
+      url: /docs/
+    - name: 开源计算工具
+      img: /img/open-source-icon.png
+      url: https://github.com/intproduct
+
+- tier_name: 技术工具
+  size: small  
+  items:
+    - name: Python
+      img: /img/python-logo.png
+      url: https://python.org/
+    - name: PyTorch
+      img: /img/pytorch-logo.png
+      url: https://pytorch.org/
+    - name: NumPy
+      img: /img/numpy-logo.png
+      url: https://numpy.org/
+    - name: Jupyter
+      img: /img/jupyter-logo.png
+      url: https://jupyter.org/

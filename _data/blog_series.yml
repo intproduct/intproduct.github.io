@@ -1,0 +1,20 @@
+- title: 张量网络学习笔记
+  url: /blog/tensor-networks/
+  image: /img/tensor-network-bg.png
+  description: >
+    深入学习张量网络算法的系列笔记，从基础概念到高级应用，
+    包括DMRG、PEPS、TNS等算法的理论推导和代码实现。
+
+- title: 量子物理研究心得
+  url: /blog/quantum-physics/
+  image: /img/quantum-physics-bg.png  
+  description: >
+    记录在量子多体理论研究中的思考和发现，分享对复杂量子系统
+    的理解和研究方法的探索过程。
+
+- title: 计算物理工具箱
+  url: /blog/computational-tools/
+  image: /img/computational-bg.png
+  description: >
+    分享在科研中使用的各种计算工具和编程技巧，包括Python科学计算、
+    数值算法实现和性能优化等实用内容。

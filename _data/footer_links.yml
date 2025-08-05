@@ -1,0 +1,26 @@
+- name: 学术资源
+  items:
+    - name: ResearchGate
+      link: https://www.researchgate.net/profile/Qixuan-Fang-2
+    - name: ORCID
+      link: https://orcid.org/0009-0009-3303-4462
+    - name: arXiv
+      link: https://arxiv.org/
+      
+- name: 开源项目  
+  items:
+    - name: GitHub
+      link: https://github.com/intproduct
+    - name: PyTensorNet
+      link: https://github.com/intproduct/pytensornet
+    - name: 研究笔记
+      link: /blog/
+      
+- name: 学术机构
+  items:
+    - name: KITS
+      link: http://kits.ucas.ac.cn/
+    - name: UCAS
+      link: https://www.ucas.ac.cn/
+    - name: 物理所
+      link: http://www.iop.cas.cn/

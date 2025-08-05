@@ -1,0 +1,92 @@
+- label: 张量网络理论
+  items:
+    - name: 基础概念
+      link: /blog/tensor-networks/basics/
+    - name: 矩阵乘积态 (MPS)
+      link: /blog/tensor-networks/mps/
+    - name: DMRG算法详解
+      link: /blog/tensor-networks/dmrg/
+    - name: 投影纠缠对态 (PEPS)
+      link: /blog/tensor-networks/peps/
+    - name: 时间演化算法
+      link: /blog/tensor-networks/time-evolution/
+    - name: 无限系统方法
+      link: /blog/tensor-networks/infinite-systems/
+
+- label: 量子多体理论
+  items:
+    - name: 二次量子化
+      link: /blog/quantum-many-body/second-quantization/
+    - name: 哈伯德模型
+      link: /blog/quantum-many-body/hubbard-model/
+    - name: 海森堡模型
+      link: /blog/quantum-many-body/heisenberg-model/
+    - name: 量子相变
+      link: /blog/quantum-many-body/phase-transitions/
+    - name: 纠缠熵与量子信息
+      link: /blog/quantum-many-body/entanglement/
+    - name: 拓扑序与anyons
+      link: /blog/quantum-many-body/topological-order/
+
+- label: 计算物理方法
+  items:
+    - name: 数值对角化
+      link: /blog/computational/exact-diagonalization/
+    - name: 量子蒙特卡罗
+      link: /blog/computational/quantum-monte-carlo/
+    - name: 密度泛函理论
+      link: /blog/computational/dft/
+    - name: 并行计算优化
+      link: /blog/computational/parallel-computing/
+    - name: GPU加速计算
+      link: /blog/computational/gpu-acceleration/
+
+- label: 编程实践
+  items:
+    - name: Python科学计算
+      link: /blog/programming/python-scientific/
+    - name: NumPy高级技巧
+      link: /blog/programming/numpy-advanced/
+    - name: TensorFlow量子计算
+      link: /blog/programming/tensorflow-quantum/
+    - name: C++性能优化
+      link: /blog/programming/cpp-optimization/
+    - name: Mathematica符号计算
+      link: /blog/programming/mathematica/
+
+- label: 量子机器学习
+  items:
+    - name: 量子神经网络
+      link: /blog/qml/quantum-neural-networks/
+    - name: 变分量子算法
+      link: /blog/qml/variational-algorithms/
+    - name: 量子分类器
+      link: /blog/qml/quantum-classifiers/
+    - name: 量子生成模型
+      link: /blog/qml/quantum-generative/
+    - name: 噪声中等规模量子计算
+      link: /blog/qml/nisq/
+
+- label: 文献阅读
+  items:
+    - name: 经典论文解读
+      link: /blog/literature/classic-papers/
+    - name: 最新研究进展
+      link: /blog/literature/recent-advances/
+    - name: 会议报告总结
+      link: /blog/literature/conference-notes/
+    - name: 书籍读书笔记
+      link: /blog/literature/book-notes/
+
+- label: 研究工具
+  items:
+    - name: 学术写作技巧
+      link: /blog/tools/academic-writing/
+    - name: LaTeX使用指南
+      link: /blog/tools/latex-guide/
+    - name: 文献管理工具
+      link: /blog/tools/reference-management/
+    - name: 数据可视化
+      link: /blog/tools/data-visualization/
+    - name: 版本控制与Git
+      link: /blog/tools/version-control/
