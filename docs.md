@@ -2,6 +2,7 @@
 layout: page
 title: Documentation
 permalink: /docs/
+show_sidebar: true
 ---
 
 # 📚 文档中心
