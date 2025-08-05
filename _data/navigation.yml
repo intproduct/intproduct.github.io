@@ -1,0 +1,26 @@
+- name: Home
+  link: /
+- name: About
+  link: /about/
+- name: CV
+  link: /home/
+- name: Research
+  dropdown:
+    - name: Projects
+      link: /research/
+    - name: Collaborations
+      link: /collaborations/
+- name: Notes
+  link: /notes/
+- name: Docs
+  link: /docs/
+- name: Blog
+  dropdown:
+    - name: All Posts
+      link: /blog/
+    - name: Tensor Networks
+      link: /blog/tensor-networks/
+    - name: Quantum Physics
+      link: /blog/quantum-physics/
+    - name: Computational Tools
+      link: /blog/computational-tools/
