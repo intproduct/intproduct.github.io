@@ -5,29 +5,20 @@ subtitle: PhD Candidate, KITS, UCAS
 hero_height: is-medium
 hero_image: /img/fig-bg.png
 show_sidebar: false
+callouts: home_callouts
 ---
 
 # 欢迎访问我的学术主页
 
-我是中国科学院大学卡弗里理论科学研究所的理论物理博士研究生，感兴趣方向为*量子多体理论、张量网络算法、复杂系统与统计物理、量子机器学习等*
+我是中国科学院大学卡弗里理论科学研究所的理论物理博士研究生，专注于**量子多体理论、张量网络算法、复杂系统与统计物理、量子机器学习**等前沿领域的研究。
 
-## 研究兴趣
+## 研究概览
 
-- **主要研究领域**: 泛函张量网络算法
+在理论物理的广阔天地中，我致力于探索量子多体系统的奥秘。通过发展新颖的张量网络算法，我们能够更深入地理解复杂量子系统的行为，并为量子技术的发展奠定理论基础。
 
-## 学术资源
+---
 
-在这个网站上，你可以找到：
-
-- 📚 **研究笔记** - 我的学习笔记和理论推导
-- 📄 **论文与报告** - 发表的论文和会议报告
-- 💻 **代码库** - 研究中使用的计算代码
-- 🎓 **学术资料** - 课程笔记和参考资料
-
-## 联系方式
-
-- 📧 **Email**: fangqixuan23@mails.ucas.ac.cn
-- 📱 **ORCID**: https://orcid.org/0009-0009-3303-4462
+*"理论物理学家的工作是用数学语言描述自然界的美丽与和谐"*
 - 💻 **GitHub**: intproduct
 - 🏫 **Address**: University of Chinese Academy of Sciences, No.1 Yanqihu East Rd, Huairou District, Beijing, PR China, 101408
 
