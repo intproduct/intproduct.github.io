@@ -73,7 +73,7 @@ $$
 \Psi_*: \frac{dA}{dt} \mapsto \frac{d}{dt} |\Psi(A)\rangle
 $$
 
-但问题在于：参数空间的切向量是否能保证映射到 $\mathcal{H}$ 后仍落在切空间 $T_{|\Psi\rangle}\mathcal{M}$ 上？**不能**，因为受到 MPS ansatz 的限制。
+但问题在于：参数空间的切向量是否能保证映射到$\mathcal{H}$后仍落在切空间$T_{|\Psi\rangle}\mathcal{M}$上？**不能**，因为受到 MPS ansatz 的限制。
 
 TDVP 方程定义为：
 $$
