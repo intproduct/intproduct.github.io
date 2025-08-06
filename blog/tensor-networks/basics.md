@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: math
 title: 张量网络基础概念
 subtitle: 理解量子多体计算的数学框架
 menubar: notes_menu
 show_sidebar: false
 toc: true
+mathjax: true
 ---
 
 # 张量网络基础概念

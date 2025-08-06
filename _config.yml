@@ -27,12 +27,13 @@ plugins:
 markdown: kramdown
 highlighter: rouge
 
-# Kramdown 配置（启用数学公式支持）
+# Kramdown 配置
 kramdown:
-  math_engine: mathjax
-  math_engine_opts:
-    preview: true
-    preview_as_code: false
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
 
 # MathJax 配置
 mathjax: true
