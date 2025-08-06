@@ -35,9 +35,6 @@ kramdown:
     block:
       line_numbers: false
 
-# MathJax 配置
-mathjax: true
-
 # MathJax 配置 - 全局启用
 mathjax: true
 
