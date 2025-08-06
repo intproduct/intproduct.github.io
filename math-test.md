@@ -1,12 +1,11 @@
 ---
-layout: math
+layout: page
 title: 数学公式测试
-mathjax: true
 ---
 
 # 数学公式测试页面
 
-这是一个测试页面，用来验证 MathJax 是否正常工作。
+这是一个测试页面，用来验证全局 MathJax 配置是否正常工作。
 
 ## 行内公式测试
 
@@ -44,4 +43,4 @@ c & d
 \end{pmatrix}
 $$
 
-如果所有公式都能正确显示，说明 MathJax 配置成功！
+如果所有公式都能正确显示，说明全局 MathJax 配置成功！

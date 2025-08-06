@@ -1,12 +1,13 @@
-<!-- MathJax 配置 -->
-{% if page.mathjax or site.mathjax %}
+<!-- 全局 MathJax 配置 -->
 <script>
   MathJax = {
     tex: {
       inlineMath: [['$', '$'], ['\\(', '\\)']],
       displayMath: [['$$', '$$'], ['\\[', '\\]']],
       processEscapes: true,
-      processEnvironments: true
+      processEnvironments: true,
+      tags: 'ams',
+      packages: {'[+]': ['ams']}
     },
     options: {
       skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
@@ -16,4 +17,3 @@
 <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
-{% endif %}

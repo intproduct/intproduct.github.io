@@ -38,6 +38,9 @@ kramdown:
 # MathJax 配置
 mathjax: true
 
+# MathJax 配置 - 全局启用
+mathjax: true
+
 # 分页设置（如果需要）
 paginate: 5
 paginate_path: "/blog/page:num/"
@@ -71,7 +74,8 @@ defaults:
       path: ""
       type: "pages"
     values:
-      show_sidebar:false
+      show_sidebar: false
+      mathjax: true
   -
     scope:
       path: ""
@@ -80,6 +84,7 @@ defaults:
       author: ""
       layout: post
       show_sidebar: true
+      mathjax: true
 
 # 社交媒体链接
 social:
