@@ -11,7 +11,9 @@
     - name: 时间演化算法
       link: /blog/tensor-networks/time-evolution/
     - name: 无限系统方法
-      link: /blog/tensor-networks/infinite-systems/
+      link: /blog/tensor-networks/infinite-systems/ 
+    - name: TDVP方法
+      link: /blog/tensor-networks/tdvp/
 
 - label: 量子多体理论
   items:
