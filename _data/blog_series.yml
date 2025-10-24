@@ -18,3 +18,8 @@
   description: >
     分享在科研中使用的各种计算工具和编程技巧，包括Python科学计算、
     数值算法实现和性能优化等实用内容。
+
+- title: 评论文章
+  url: /blog/comments/
+  description: >
+    关于学术的一些评论
