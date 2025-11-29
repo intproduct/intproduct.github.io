@@ -2,7 +2,7 @@
 layout: page
 title: Comments
 permalink: /blog/comments/
-show_sidebar: true
+show_sidebar: false
 ---
 
 # 📚 文档中心
@@ -11,9 +11,9 @@ show_sidebar: true
   <div class="column is-4">
     <div class="card">
       <div class="card-content">
-        <h3 class="title is-4">📒 笔记系列</h3>
-        <p>统计物理学</p>
-        <a href="{{ site.baseurl }}/blog/comments/A comment for high-energy accelerator and future" class="button is-primary">查看教程</a>
+        <h3 class="title is-4">💬 评论系列</h3>
+        <p>评论与随笔</p>
+        <a href="{{ site.baseurl }}/blog/comments/A comment for high-energy accelerator and future" class="button is-primary">查看</a>
       </div>
     </div>
   </div>
