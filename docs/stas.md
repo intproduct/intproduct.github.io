@@ -1,15 +1,17 @@
 ---
 layout: page
-title: 统计物理笔记
+title: 学习笔记/随笔/记录
 permalink: /docs/stas/
 ---
 
-# 📒 笔记系列
+# 📒 学习笔记/随笔/记录
 
 <a href="{{ site.baseurl }}/docs/" class="button is-light">← 返回文档中心</a>
 
-## 可用教程
-
-### 🌟 基础教程
-- [📘 快速入门]({{ site.baseurl }}/assets/pdfs/slides.pdf) - 书籍内容
-- [📙 其他笔记]({{ site.baseurl }}/assets/pdfs/notes.pdf) - 读书笔记
+- [📘 临界现象笔记]({{ site.baseurl }}/notes/nocp.pdf)
+- [📘 高等分析基础]({{ site.baseurl }}/notes/HBA.pdf)
+- [📘 FAS-MPO]({{ site.baseurl }}/notes/MPO.pdf)
+- [📘 几何量子计算简介]({{ site.baseurl }}/notes/QC.pdf)
+- [📘 多体物理与磁性计算笔记]({{ site.baseurl }}/notes/note1.pdf)
+- [📘 物理学用李代数简明笔记]({{ site.baseurl }}/notes/nola.pdf)
+- [📘 临界现象和统计物理随笔]({{ site.baseurl }}/notes/CP.pdf)
