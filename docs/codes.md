@@ -12,4 +12,4 @@ permalink: /docs/codes/
 
 - [💻 FTN方法基本函数]
 - [💻 ADQC类及常用函数]
-- [💻 简单的MoE学习模块](https://github.com/intproduct/simple_moe_pravite)查看
+- [💻 简单的MoE学习模块](https://github.com/intproduct/simple_moe_pravite)
