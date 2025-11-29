@@ -3,7 +3,6 @@ layout: page
 title: 学术笔记
 subtitle: 理论物理与计算科学研究笔记
 permalink: /notes/
-menubar: notes_menu
 show_sidebar: false
 ---
 
@@ -33,6 +32,7 @@ show_sidebar: false
 - [临界现象笔记]({{ site.baseurl }}/notes/nocp.pdf)
 - [量子多体理论基础]({{ "/blog/quantum-many-body/" | relative_url }})
 - [Python科学计算技巧]({{ "/blog/programming/python-scientific/" | relative_url }})
+- [......]({{ site.baseurl }}/docs)
 
 ### 计划中的内容
 - 密度矩阵重整化群详细推导
