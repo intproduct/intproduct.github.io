@@ -11,5 +11,5 @@ permalink: /docs/codes/
 # 部分代码和程序文件
 
 - [💻 FTN方法基本函数]
-- [💻 ADQC类及常用函数]
+- [💻 ADQC类及常用函数](https://github.com/intproduct/TN-VQCcodes_mlx_private)
 - [💻 简单的MoE学习模块](https://github.com/intproduct/simple_moe_pravite)
