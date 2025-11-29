@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 个人博客
-gallery:bolg_series
+sponsors: blog_series
 show_sidebar: false
 ---
 
