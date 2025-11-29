@@ -2,6 +2,7 @@
 layout: page
 title: 学术笔记
 subtitle: 理论物理与计算科学研究笔记
+permalink: /notes/
 menubar: notes_menu
 show_sidebar: false
 ---
