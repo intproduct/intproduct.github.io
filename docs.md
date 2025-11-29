@@ -11,9 +11,9 @@ show_sidebar: false
   <div class="column is-4">
     <div class="card">
       <div class="card-content">
-        <h3 class="title is-4">📒 笔记系列</h3>
-        <p>统计物理学</p>
-        <a href="{{ site.baseurl }}/docs/stas/" class="button is-primary">查看教程</a>
+        <h3 class="title is-4">📒 笔记与参考资料</h3>
+        <p>学习笔记/随笔/记录</p>
+        <a href="{{ site.baseurl }}/docs/stas/" class="button is-primary">查看笔记</a>
       </div>
     </div>
   </div>
