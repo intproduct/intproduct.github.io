@@ -1,3 +1,9 @@
+---
+layout: page
+title: A comment for high-energy accelerator and future
+show_sidebar: false
+---
+
 # The End of the Feast? High-Energy Physics at a Crossroads
 ## The Origins
 Around the 1930s and 1940s, physics below the atomic scale—generally known as subatomic or particle physics—entered a period of vigorous development, benefiting from the near completion of quantum mechanics' foundational framework and rapid advancements in engineering. Since the 1930s, research into leptons like electrons and muons, as well as the atomic nucleus, had steadily grown. This marked the origin of modern high-energy experimental physics.
