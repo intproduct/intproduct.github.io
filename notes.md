@@ -30,7 +30,7 @@ show_sidebar: false
 ## 🚀 最新更新
 
 ### 近期添加
-- [临界现象笔记]({{ "/notes/tensor-networks/" | relative_url }})
+- [临界现象笔记]({{ site.baseurl }}/notes/nocp.pdf)
 - [量子多体理论基础]({{ "/blog/quantum-many-body/" | relative_url }})
 - [Python科学计算技巧]({{ "/blog/programming/python-scientific/" | relative_url }})
 
