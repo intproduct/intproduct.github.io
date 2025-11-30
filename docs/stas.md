@@ -10,6 +10,9 @@ permalink: /docs/stas/
 
 - [📘 临界现象笔记]({{ site.baseurl }}/notes/nocp.pdf)
 - [📘 高等分析基础]({{ site.baseurl }}/notes/HBA.pdf)
+- [📘 随机过程1]({{ site.baseurl }}/notes/nosp1.pdf)
+- [📘 随机过程2]({{ site.baseurl }}/notes/nosp2.pdf)
+- [📘 经济物理学笔记]({{ site.baseurl }}/notes/noec.pdf)
 - [📘 FAS-MPO]({{ site.baseurl }}/notes/MPO.pdf)
 - [📘 几何量子计算简介]({{ site.baseurl }}/notes/QC.pdf)
 - [📘 多体物理与磁性计算笔记]({{ site.baseurl }}/notes/note1.pdf)
